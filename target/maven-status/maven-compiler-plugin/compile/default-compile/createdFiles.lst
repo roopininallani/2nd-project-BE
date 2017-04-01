@@ -1,0 +1,13 @@
+com\niit\projectBE\model\UserProfile.class
+com\niit\projectBE\config\WebSocketConfig.class
+com\niit\projectBE\model\CORSFilter.class
+com\niit\projectBE\model\UserForumComments.class
+com\niit\projectBE\config\ApplicationConfig.class
+com\niit\projectBE\model\Friends.class
+com\niit\projectBE\model\JobApplication.class
+com\niit\projectBE\config\AppInitializer.class
+com\niit\projectBE\config\AppConfig.class
+com\niit\projectBE\model\Job.class
+com\niit\projectBE\model\UserForum.class
+com\niit\projectBE\model\ForumCategory.class
+com\niit\projectBE\model\UserBlog.class
